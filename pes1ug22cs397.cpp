@@ -2,5 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, Jenkins Pipeline!" << endl; return 0;
+    cout << "Hello, Jenkins Pipeline!" << endl;
+    return 0;
 }
